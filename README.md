@@ -72,18 +72,6 @@ To keep the repository organized, the following naming rules are used.
 
 ---
 
-## 👥 Team 
-
-| Member   | Responsibility                                 |
-| -------- | ---------------------------------------------- |
-| Member 1 | Project Lead & Repository Management           |
-| Member 2 | UI/UX Design & CSS                             |
-| Member 3 | JavaScript Logic – Password Strength Evaluator |
-| Member 4 | JavaScript Logic – Password Generator          |
-| Member 5 | Documentation & Security Research              |
-
----
-
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
